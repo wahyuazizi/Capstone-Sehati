@@ -178,7 +178,7 @@ input_data = process_input(user_input, features)
 print("Input Array Shape:", input_data.shape)  # Pastikan (1, 131)
 
 # Load model TFLite
-interpreter = tf.lite.Interpreter(model_path="model_fixed.tflite")
+interpreter = tf.lite.Interpreter(model_path="model.tflite")
 interpreter.allocate_tensors()
 
 # Detail input dan output
