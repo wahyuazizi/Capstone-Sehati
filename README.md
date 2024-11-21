@@ -65,7 +65,7 @@ Gunakan fungsi `process_input` untuk mengubah daftar gejala pengguna menjadi arr
 
 ```python
 # Contoh input user
-user_input = ["gatal", "ruam_kulit", "bercak_dischromic"]
+user_input = ["gatal", "ruam kulit", "bercak dischromic"]
 
 # Proses input menjadi array biner
 input_data = process_input(user_input, features)
@@ -93,7 +93,7 @@ Input Array Shape: (1, 131)
 
 ```python
 # Load model TFLite
-interpreter = tf.lite.Interpreter(model_path="model_fixed.tflite")
+interpreter = tf.lite.Interpreter(model_path="model.tflite")
 interpreter.allocate_tensors()
 
 # Detail input dan output
