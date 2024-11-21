@@ -206,4 +206,4 @@ print("Predicted Disease:", predicted_disease)
 ---
 
 **Catatan Akhir:**
-Pastikan model TFLite dan daftar fitur sesuai dengan yang digunakan saat melatih model. Jangan lupa mengganti elemen `...` dengan data lengkap Anda.
+Sesuaikan form input dinamis saat mengimplementasikan di Mobile dan Cloud
