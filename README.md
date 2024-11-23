@@ -3,7 +3,7 @@
 Welcome to our GitHub repository! 🎉 We are a team working on Capstone Project at Bangkit and we build an AI-powered health monitoring application designed to support users.  
 ---
 
-## 📝 Tentang Proyek
+## 📝 About the Project
 
 - **Project Title:** SEHATI  
 - **Short Description:** ~
@@ -24,14 +24,14 @@ Welcome to our GitHub repository! 🎉 We are a team working on Capstone Project
 Kami terdiri dari anggota dengan keahlian di bidang yang beragam untuk menyukseskan proyek ini:
 
 - **Machine Learning Engineers:**
-  - [Nama anggota 1]
-  - [Nama anggota 2]
-  - [Nama anggota 3]
+  - Wahyu Azizi
+  - Dewi Suciningrum
+  - Ninda Kartika Putri
 - **Cloud Computing Engineers:**
-  - [Nama anggota 4]
-  - [Nama anggota 5]
+  - Andika Dermawan Saputra
+  - Azizah Bahirotun Ni'am	
 - **Mobile Developer:**
-  - [Nama anggota 6]
+  - Nur Kholis Wakhid
 
 ---
 
