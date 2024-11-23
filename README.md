@@ -1,3 +1,40 @@
+# 🌟 Proyek SEHATI 
+
+Welcome to our GitHub repository! 🎉 We are a team working on Capstone Project at Bangkit and we build an AI-powered health monitoring application designed to support users.  
+---
+
+## 📝 Tentang Proyek
+
+- **Project Title:** SEHATI  
+- **Short Description:** [A brief explanation of your project, e.g., "A virtual tour platform that blends education with sustainable tourism."]
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Machine Learning:** ~
+- **Cloud Computing:** ~
+- **Mobile Development:** ~
+- **Other:** ~
+
+---
+
+## 🤝 Our Team
+
+Kami terdiri dari anggota dengan keahlian di bidang yang beragam untuk menyukseskan proyek ini:
+
+- **Machine Learning Engineers:**
+  - [Nama anggota 1]
+  - [Nama anggota 2]
+  - [Nama anggota 3]
+- **Cloud Computing Engineers:**
+  - [Nama anggota 4]
+  - [Nama anggota 5]
+- **Mobile Developer:**
+  - [Nama anggota 6]
+
+---
+
 # Dokumentasi Penggunaan Model TFLite untuk Prediksi Penyakit
 
 ---
