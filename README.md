@@ -6,7 +6,7 @@ Welcome to our GitHub repository! 🎉 We are a team working on Capstone Project
 ## 📝 Tentang Proyek
 
 - **Project Title:** SEHATI  
-- **Short Description:** [A brief explanation of your project, e.g., "A virtual tour platform that blends education with sustainable tourism."]
+- **Short Description:** ~
 
 ---
 
