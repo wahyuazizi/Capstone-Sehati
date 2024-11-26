@@ -1,0 +1,419 @@
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Infeksi Jamur. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Alergi. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Penyakit Refluks Gastroesofagus (GERD). Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Cholestasis Kronis. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Reaksi Obat. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Penyakit Tukak Lambung. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah AIDS. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Diabetes. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Gastroenteritis. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Asma Bronkial. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Hipertensi. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Migrain. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Spondilosis Servikal. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Paralisia (perdarahan otak). Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Penyakit Kuning. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Malaria. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Cacar Air. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Dengue. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Tifus. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "contents": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Penyakit yang diprediksi adalah Hepatitis A. Apa yang harus saya lakukan?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
