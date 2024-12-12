@@ -43,7 +43,7 @@ Sehati is a health application that provides users with personalized health reco
 ---
 
 ## ML Model Details
-- **Model Type:** Deep Neural Network (DNN)
+- **Model Type:** Neural Network
 - **Purpose:** Predict diseases based on user-input symptoms and provide health recommendations.
 - **Framework:** TensorFlow/Keras
 - **Model File Format:** `.keras`
