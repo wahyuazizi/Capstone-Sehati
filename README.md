@@ -1,3 +1,5 @@
+![Logo Sehati]([http://url/to/img.png](https://github.com/wahyuazizi/Capstone-Sehati/blob/main/logo3.png))
+
 # 🌟 Proyek SEHATI 
 
 Welcome to our GitHub repository! 🎉 We are a team working on Capstone Project at Bangkit and we build an AI-powered health monitoring application designed to support users.  
